@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c7732c2-9ea2-44c6-b278-996beb5c334b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/CandyflossStallTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ThemePark/Stalls/Candyflossstall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ThemePark/Stalls/Candyflossstall.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ThemePark/Stalls/Icecreamstall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ThemePark/Stalls/Icecreamstall.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ThemePark/Stalls/Stall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ThemePark/Stalls/Stall.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ThemePark/Stalls/Tobaccostall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ThemePark/Stalls/Tobaccostall.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/CandyflossdtallTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/IcecreamstallTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/IcecreamstallTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TobaccostallTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TobaccostallTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -55,15 +48,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/IcecreamstallTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-26">
-              <caret line="8" column="32" lean-forward="true" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+            <state relative-caret-position="60">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="39" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#112#113#0" expanded="true" />
                 <element signature="e#202#203#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/TobaccostallTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#104#105#0" expanded="true" />
+                <element signature="e#188#189#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -78,20 +85,6 @@
                 <element signature="imports" expanded="true" />
                 <element signature="e#95#96#0" expanded="true" />
                 <element signature="e#141#142#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/PlaygroundTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#102#103#0" expanded="true" />
-                <element signature="e#162#163#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -191,6 +184,7 @@
         <option value="$PROJECT_DIR$/src/test/java/CandyflossdtallTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/CandyflossStallTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/IcecreamstallTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TobaccostallTest.java" />
       </list>
     </option>
   </component>
@@ -278,7 +272,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554240827092" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554241137090" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -337,6 +331,9 @@
       <configuration name="All in com.codeclan.example.ThemePark.test" configurationId="JUnit" />
     </history-entry>
     <history-entry file="All_in_com_codeclan_example_ThemePark_test - 2019.04.02 at 22h 27m 24s.xml">
+      <configuration name="All in com.codeclan.example.ThemePark.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_com_codeclan_example_ThemePark_test - 2019.04.02 at 22h 33m 49s.xml">
       <configuration name="All in com.codeclan.example.ThemePark.test" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -443,13 +440,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TobaccostallTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
@@ -654,12 +644,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/IcecreamstallTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-26">
-          <caret line="8" column="32" lean-forward="true" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+        <state relative-caret-position="60">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="39" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#112#113#0" expanded="true" />
             <element signature="e#202#203#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TobaccostallTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#104#105#0" expanded="true" />
+            <element signature="e#188#189#0" expanded="true" />
           </folding>
         </state>
       </provider>
