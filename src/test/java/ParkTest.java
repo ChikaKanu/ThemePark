@@ -1,4 +1,3 @@
-import ThemePark.Attractions.Dodgem;
 import ThemePark.Attractions.Park;
 import org.junit.Before;
 import org.junit.Test;
@@ -21,7 +20,7 @@ public class ParkTest {
     }
 
     @Test
-    public void hasRating() {
+    public void hasName() {
         park.setName("Volta");
         assertEquals("Volta", park.getName());
     }

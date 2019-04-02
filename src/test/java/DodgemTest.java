@@ -20,7 +20,7 @@ public class DodgemTest {
     }
 
     @Test
-    public void hasRating() {
+    public void hasName() {
         dodgem.setName("Emma");
         assertEquals("Emma", dodgem.getName());
     }
