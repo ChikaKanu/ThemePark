@@ -1,11 +1,12 @@
 package ThemePark.Attractions;
 
+import ThemePark.IReviewed;
 import ThemePark.ISecurity;
 import ThemePark.Visitor;
 
 import java.util.ArrayList;
 
-public class Playground extends Attraction implements ISecurity {
+public class Playground extends Attraction implements ISecurity, IReviewed {
 
     private ArrayList<Visitor> visitors;
 
@@ -24,4 +25,6 @@ public class Playground extends Attraction implements ISecurity {
     public int visitorsCount() {
         return this.visitors.size();
     }
+
+
 }

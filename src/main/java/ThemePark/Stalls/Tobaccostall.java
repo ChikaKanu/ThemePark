@@ -1,11 +1,12 @@
 package ThemePark.Stalls;
 
+import ThemePark.IReviewed;
 import ThemePark.ISecurity;
 import ThemePark.Visitor;
 
 import java.util.ArrayList;
 
-public class Tobaccostall extends Stall implements ISecurity {
+public class Tobaccostall extends Stall implements ISecurity, IReviewed {
 
     private ArrayList<Visitor> visitors;
 
@@ -24,5 +25,7 @@ public class Tobaccostall extends Stall implements ISecurity {
     public int visitorsCount() {
         return this.visitors.size();
     }
+
+
 }
 
